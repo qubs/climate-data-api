@@ -16,7 +16,7 @@ Markdown==2.6.8
 MarkupSafe==1.0
 olefile==0.44
 packaging==16.8
-Pillow==4.2.1
+Pillow==8.1.1
 psycopg2==2.7.1
 Pygments==2.2.0
 pyparsing==2.2.0
